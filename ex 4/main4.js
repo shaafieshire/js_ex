@@ -22,4 +22,4 @@ let greetExpression = function(name) {
   return "Welcome , " + name + "!";
 };
 
-console.log(greetExpression("Saafie")); // result: "Hello, Saafie!"
+console.log(greetExpression("Saafie")); // result: "Welcome , Saafie!"

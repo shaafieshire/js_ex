@@ -1,10 +1,10 @@
 // Object 
-
 let car = {
     brand: "Toyota",
     model: "Camry",
     year: 2020
 };
+
 
 console.log(car); // output: { brand: "Toyota", model: "Camry", year: 2020 }
 console.log(car["brand"]); // output: "Toyota"
